@@ -1,0 +1,45 @@
+.product-image{
+    width:250px;
+    padding-right: 20px;
+  }
+  
+  .text{
+  margin-left: 10px;
+  padding-top: 0px;
+  }
+.gab{
+  font-family:fraunces;
+  width: 200px;
+}
+.floral{
+  width: 210px;
+  margin-bottom: 20px;
+  line-height: 1.5;
+}
+.one{
+  color: green;
+  font-weight: bold;
+  font-size: 25px;
+  font-family:fraunces ;
+  margin-right: 10px;
+}
+.two{
+  text-decoration: line-through;
+  font-size: 12px;
+}
+.number{
+   margin-bottom: 30px;
+}
+button{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 180px;
+  background-color: rgba(0, 70, 0, 0.829);
+  border: none;
+  color: white;
+  font-size: 16px;
+  font-family: arial;
+  border-radius: 10px;
+}

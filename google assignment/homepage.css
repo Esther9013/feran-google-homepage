@@ -1,0 +1,36 @@
+div{
+  text-align: center;
+  font-family: arial;
+}
+ nav div{
+  position: fixed;
+  padding: 8px 8px 8px 1000px;
+ }
+ 
+a{
+  text-decoration: none;
+}
+
+.google-image{
+  width: 200px;
+}
+
+#search-bar{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
+  width: 500px;
+  border-radius: 30px;
+  border: none;
+  font-size: 16px;
+  box-shadow: 0px 1px 6px rgba(0,0,0,0.2);
+  margin-bottom: 30px;
+}
+
+button{
+  background-color: rgb(245,245,245);
+  padding:10px;
+  border: none;
+  margin-right: 10px;
+}
